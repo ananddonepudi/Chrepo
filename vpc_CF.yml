@@ -6,7 +6,7 @@ Description:
 
 Parameters:
   EnvironmentName:
-    Description: An environment name that is prefixed to resource names
+    Description: An environment name that is prefixed to resource names for git
     Type: String
   ProjName:
     Description: new variable
